@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TIKI**
 
-- 💬 Ask me about **I'm Welcome Moringa, a developer passionate about full stack web technology..**
+- 💬 Ask me about **I'm Bienvenu Moringa, a developer passionate about full stack web technology..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
