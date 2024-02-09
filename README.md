@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bienvenu Moringa</h1>
+<h1 align="center">I'm Bienvenu Moringa 👋</h1>
 <h3 >A passionate web developer from the Democratic Republic of Congo (DRC)</h3>
 
 - 🔭 I’m currently working on **TIKI**
 
-- 💬 Ask me about **I'm Bienvenu Moringa, a developer passionate about full stack web technology..**
+<p>I'm <b>Bienvenu Moringa</b>, a developer passionate about full stack web technology..</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
