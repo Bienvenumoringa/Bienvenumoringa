@@ -7,8 +7,8 @@ I'm Bienvenu Moringa from the democratic republic of congo, city of butembo, a p
 ## Skills and experiences
 * 💻 Html, css, js , php and css
 * 📳flutter 
+## Experience of work
 
-- 🔭 I’m currently working on this page.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bienvenumoringa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bienvenu-moringa-0b5203263/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bienvenu.moringa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/moringabienvenu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/bienvenumoringa8038)  
 
