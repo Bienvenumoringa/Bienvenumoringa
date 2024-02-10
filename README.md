@@ -3,6 +3,8 @@
 
 I'm Bienvenu Moringa from the democratic republic of congo, city of butembo, a proficient full-stack web developer. I work with front-end technologies such as HTML 5, CSS 3, Smarty, and JavaScript to create appealing user interfaces. On the server side, I utilize PHP and MySQL to develop dynamic applications. My primary field is web development. I am constantly seeking learning and improvement, reflecting my passion for programming in every project I undertake. Each project is a new opportunity to apply and deepen my skills.
 
+<img src="https://github-readme-stats.vercel.app/api?username=bienvenumoringa&theme=transparent" alt="Statistiques GitHub de Bienvenu Moringa" style="width: 100%; ">
+
 
 ## Skills and experiences
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -25,7 +27,3 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="https://instagram.com/moringabienvenu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moringabienvenu" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/bienvenumoringa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bienvenumoringa" height="30" width="30" /></a>
 <a href="https://wa.me/+243827040020" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="bienvenu-moringa-0b5203263" height="30" width="40" /></a>
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bienvenumoringa&theme=transparent)
