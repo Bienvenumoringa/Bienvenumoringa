@@ -1,6 +1,6 @@
 ### Hi there 👋, Bienvenu moringa
 #### Design and developement
-![Design and developement](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and developement](https://github.com/Bienvenumoringa/Bienvenumoringa/blob/main/arrire%20plan%20github.PNG)
 
 I'm Bienvenu Moringa from the democratic republic of congo, city of butembo, a proficient full-stack web developer. I work with front-end technologies such as HTML 5, CSS 3, Smarty, and JavaScript to create appealing user interfaces. On the server side, I utilize PHP and MySQL to develop dynamic applications. My primary field is web development. I am constantly seeking learning and improvement, reflecting my passion for programming in every project I undertake. Each project is a new opportunity to apply and deepen my skills.
 
