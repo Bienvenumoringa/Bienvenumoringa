@@ -5,7 +5,8 @@ I'm Bienvenu Moringa from the democratic republic of congo, city of butembo, a p
 
 
 ## Skills and experiences
-Skills: JS / HTML / CSS/SMARTY/PHP
+* 💻 Html, css, js , php and css
+* 📳flutter 
 
 - 🔭 I’m currently working on this page.
 
