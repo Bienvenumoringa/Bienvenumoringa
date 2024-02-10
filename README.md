@@ -18,7 +18,7 @@ I'm Bienvenu Moringa from the democratic republic of congo, city of butembo, a p
 
 ## Experience of work
 <a href="https://www.youtube.com/shorts/5CoNOPjoMJw" target="_blank"><img src="https://github.com/Bienvenumoringa/Bienvenumoringa/blob/main/Capture%20gith.PNG" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="180" height="180" style="boject-fit:cover;" /></a>
 
 ## Social media link
 <a href="https://linkedin.com/in/bienvenu-moringa-0b5203263" target="[blank](https://linkedin.com/in/bienvenu-moringa-0b5203263)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bienvenu-moringa-0b5203263" height="30" width="40" /></a>
