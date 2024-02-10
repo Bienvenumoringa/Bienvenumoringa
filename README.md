@@ -24,6 +24,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="https://fb.com/bienvenu.moringa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bienvenu.moringa" height="30" width="30" /></a>
 <a href="https://instagram.com/moringabienvenu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moringabienvenu" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/bienvenumoringa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bienvenumoringa" height="30" width="30" /></a>
+<a href="https://wa.me/?text=0827040020" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="bienvenu-moringa-0b5203263" height="30" width="40" /></a>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bienvenumoringa&theme=transparent)
