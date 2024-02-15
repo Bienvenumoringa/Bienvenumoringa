@@ -4,7 +4,7 @@ I'm <b style="Color:Red;">Bienvenu Moringa</b> from the democratic republic of c
 ## Stats
 <div style="displa:flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=bienvenumoringa&theme=transparent" alt="Statistiques GitHub de Bienvenu Moringa" style="width: 50%; ">
-<img src="https://github.com/Bienvenumoringa/Bienvenumoringa/blob/main/bg-img.jpg" style="width:50%; height:50vh; object-fit: cover;">
+  <img src="https://github.com/Bienvenumoringa/Bienvenumoringa/blob/main/bg-img.jpg" style="width:50%; height:50vh; object-fit: cover;">
 </div>
 
 ## Skills and experiences
