@@ -23,7 +23,13 @@ I'm <b style="Color:Red;">Bienvenu Moringa</b> from the democratic republic of c
 
 ## Experience of work
 <a href="https://www.youtube.com/shorts/5CoNOPjoMJw" target="_blank"><img src="https://github.com/Bienvenumoringa/Bienvenumoringa/blob/main/Capture%20gith.PNG" 
-alt="IMAGE ALT TEXT HERE" width="100" height="100" style="boject-fit:cover;" /></a>
+alt="IMAGE ALT TEXT HERE" width="80" height="80" style="boject-fit:cover;" /></a>
+<a href="https://www.youtube.com/shorts/5CoNOPjoMJw" target="_blank"><img src="https://github.com/Bienvenumoringa/Bienvenumoringa/blob/main/Capture%20gith.PNG" 
+alt="IMAGE ALT TEXT HERE" width="80" height="80" style="boject-fit:cover;" /></a>
+<a href="https://www.youtube.com/shorts/5CoNOPjoMJw" target="_blank"><img src="https://github.com/Bienvenumoringa/Bienvenumoringa/blob/main/Capture%20gith.PNG" 
+alt="IMAGE ALT TEXT HERE" width="80" height="80" style="boject-fit:cover;" /></a>
+<a href="https://www.youtube.com/shorts/5CoNOPjoMJw" target="_blank"><img src="https://github.com/Bienvenumoringa/Bienvenumoringa/blob/main/Capture%20gith.PNG" 
+alt="IMAGE ALT TEXT HERE" width="80" height="80" style="boject-fit:cover;" /></a>
 
 ## Social media link
 <a href="https://linkedin.com/in/bienvenu-moringa-0b5203263" target="[blank](https://linkedin.com/in/bienvenu-moringa-0b5203263)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bienvenu-moringa-0b5203263" height="30" width="40" /></a>
