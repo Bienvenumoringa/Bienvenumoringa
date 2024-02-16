@@ -6,7 +6,7 @@
 I'm <b style="Color:Red;">Bienvenu Moringa</b> from the democratic republic of congo, city of butembo, a proficient full-stack web developer. I work with front-end technologies such as HTML 5, CSS 3, Smarty, and JavaScript to create appealing user interfaces. On the server side, I utilize PHP and MySQL to develop dynamic applications. My primary field is web development. I am constantly seeking learning and improvement, reflecting my passion for programming in every project I undertake. Each project is a new opportunity to apply and deepen my skills.
 ## Stats
   <img src="https://github-readme-stats.vercel.app/api?username=bienvenumoringa&theme=transparent" alt="Statistiques GitHub de Bienvenu Moringa ">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immaculeebyaruhanga&theme=transparent" alt="immaculeebyaruhanga" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bienvenumoringa&theme=transparent" alt="immaculeebyaruhanga" /></p>
   
 
 ## Skills and experiences
