@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bienvenu moringa
+### Hi there , I'm Bienvenu moringa
 <p align="center">
   <img  src="https://github.com/Bienvenumoringa/Bienvenumoringa/blob/main/im2.jpg" style="width:100%; height:auto; object-fit: cover;">
 </p>
