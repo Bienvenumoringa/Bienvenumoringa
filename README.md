@@ -2,7 +2,7 @@
   <img  src="https://github.com/Bienvenumoringa/Bienvenumoringa/blob/main/im2.jpg" style="width:100%; height:auto; object-fit: cover;">
 </p>
 
-I'm <b style="Color:Red;">Bienvenu Moringa</b> from the democratic republic of congo, city of butembo, a proficient full-stack web developer. I work with front-end technologies such as <b>HTML 5, CSS 3, Smarty, and JavaScript</b> to create appealing user interfaces. On the server side, I utilize <b>PHP</b> and MySQL to develop dynamic applications. My primary field is web development. I am constantly seeking learning and improvement, reflecting my passion for programming in every project I undertake. Each project is a new opportunity to apply and deepen my skills.
+I'm <b style="Color:Red;">Bienvenu Moringa</b> from the democratic republic of congo, city of butembo, a proficient full-stack web developer. I work with front-end technologies such as <b>HTML 5, CSS 3, Smarty, and JavaScript</b> to create appealing user interfaces. On the server side, I utilize <b>PHP</b> and <b>MySQL to develop dynamic applications. My primary field is web development. I am constantly seeking learning and improvement, reflecting my passion for programming in every project I undertake. Each project is a new opportunity to apply and deepen my skills.
 ## Stats
   <img src="https://github-readme-stats.vercel.app/api?username=bienvenumoringa&theme=transparent" alt="Statistiques GitHub de Bienvenu Moringa ">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bienvenumoringa&theme=transparent" alt="immaculeebyaruhanga" /></p>
